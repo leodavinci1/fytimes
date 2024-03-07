@@ -1,0 +1,3 @@
+## A news website that scrapes data from other news outlets
+
+Development soon...
